@@ -2,7 +2,7 @@
 
 # Table of Content
 - [Objectives](#objectives)
-- [User Requirement] (#user-requirement)
+- [User Requirement](#user-requirement)
   - [Use Case](#use-case)
   - [Dashboard Criteria](#dashboard-criteria)
 - [Major Project Activities ](#major-project-activities)
@@ -11,9 +11,9 @@
   -[Data Preparation and cleaning ](#data-preparation-and-cleaning)
     -[Dataset required](#dataset-required)
     -[Data cleaning in SQL ](#data-cleaning-in-sql)
-   - [Visualisation in Power BI ](#visualisation-in-power-bi)
-   - [Analysis](#analysis)
-   - [Final Report](#final-report)
+  - [Visualisation in Power BI ](#visualisation-in-power-bi)
+  - [Analysis](#analysis)
+  - [Final Report](#final-report)
 
 # Objectives
 To develop a dashboard for All Day Bike which showcases key performance metrics to support data-driven decision making.
