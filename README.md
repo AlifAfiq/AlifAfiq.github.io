@@ -14,11 +14,11 @@
   - [Final Report](#final-report)
 
 # Objectives
-To develop a dashboard for All Day Bike which showcases key performance metrics to support data-driven decision making.
-To overview the revenue generated hourly.
-To observe the profit and revenue trends.
-To gain valuable insights based on seasonal factor and rider demographics.
-To serve an insight on potential price adjustments for next year based on the data analysis.
+-To develop a dashboard for All Day Bike which showcases key performance metrics to support data-driven decision making.
+-To overview the revenue generated hourly.
+-To observe the profit and revenue trends.
+-To gain valuable insights based on seasonal factor and rider demographics.
+-To serve an insight on potential price adjustments for next year based on the data analysis.
 
 # User Requirement 
 
