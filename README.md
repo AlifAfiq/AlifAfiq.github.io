@@ -141,9 +141,22 @@ The cleaned and preapred dataset would be like this:
 ![clean](assets/images/Screenshot 2025-02-20 222612.png)
 
 ## Visualisation in Power BI 
+Insert the required information into the table, chart and metrics.
+
 ![dashboard in power BI](assets/images/Screenshot 2025-02-20 130633.png)
 
 ## Final Report 
+![excel](assets/images/Screenshot 2025-02-20 233759.png)
+
+###Potential Price Adjustment	
+Since the past price increase of 25% did not reduce the demand, we would suggest to increase the price no higher than 25% as previously. 	
+The suggested price increse is around 10% results in the new price to be %5.49.	
+Given there will be increase in demand (or even maintain), the potential revenue and profit will be higher than before.	
+There are many actions need to be taken before implementing new price.	
+	
+###Recommendations	
+1. Conducting more market research: analyse various factors, including customer satisfaction levels, competitor pricing adjustments, and overall economic conditions. This research will provide valuable insights into whether it is more prudent to lean towards a lower or higher percentage increase.	
+2. Close monitor customer response and sales data: analysing real-time customer feedback and sales trends, adjustments can be made as necessary. If demand shows signs of weakening, a recalibration may be required to prevent revenue loss.	
 
 
 
