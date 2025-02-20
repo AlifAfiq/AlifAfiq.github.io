@@ -8,7 +8,7 @@
 - [Major Project Activities ](#major-project-activities)
 - [Deliverables](#deliverables)
 - [Working Overview](#working-overview)
-   -[Data Preparation and cleaning ](#data-preparation-and-cleaning)
+   - [Data Preparation and cleaning ](#data-preparation-and-cleaning)
   - [Visualisation in Power BI ](#visualisation-in-power-bi)
   - [Analysis](#analysis)
   - [Final Report](#final-report)
