@@ -69,15 +69,15 @@
 
 Combining table year 0 with year 1
 
-'''sql
+```sql
 select * from bike_share_yr_0
 union all
 select * from bike_share_yr_1
-'''
+```
 
 Combine the cost table to the combined tables above
 
-'''sql
+```sql
 with yr01 as (
 select * from bike_share_yr_0
 union all
@@ -87,10 +87,10 @@ select *
 from yr01 a
 left join cost_table b
 on a.yr = b.yr
-'''
+```
 
 Select the relevant information
-'''sql
+```sql
 with yr01 as (
 select * from bike_share_yr_0
 union all
@@ -110,11 +110,11 @@ COGS
 from yr01 a
 left join cost_table b
 on a.yr = b.yr
-'''
+```
 
 create the revenue and profit column using calculation
 
-'''sql
+```sql
 with yr01 as (
 select * from bike_share_yr_0
 union all
@@ -136,7 +136,7 @@ riders*price-COGS*riders as profit
 from yr01 a
 left join cost_table b
 on a.yr = b.yr
-'''
+```
 
 The cleaned and preapred dataset would be like this:
 ![clean](assets/images/Screenshot 2025-02-20 222612.png)
