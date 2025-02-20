@@ -1,5 +1,7 @@
 # All Day Bike Dashboard Development 
 
+![Dashboard](assets/images/Screenshot 2025-02-20 163656.png)
+
 # Table of Content
 - [Objectives](#objectives)
 - [User Requirement](#user-requirement)
@@ -28,23 +30,32 @@
 
 ## Use Cases 
 Hourly Revenue Analysis
+
 Profit and Revenue Trend
+
 Seasonal Revenue Insight
+
 Rider Demographic
+
 Final Report (recommendation)
 
 ## Dashboard Criteria
 Using company colour and theme.
+
 User-friendly and easy to navigate 
 
 # Major Project Activities 
 Data gathering/searching: Searching for the relevant data.
+
 Data Cleaning: Remove any irrelevant information, altering the tables.
+
 Dashboard: Containing the relevant data.
+
 Final Report: Suggesting recommendations. 
 
 # Deliverables
 Dashboard: Containing the relevant data.
+
 Final Report: Suggesting recommendations. 
 
 
