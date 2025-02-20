@@ -12,7 +12,6 @@
 - [Working Overview](#working-overview)
    - [Data Preparation and cleaning ](#data-preparation-and-cleaning)
   - [Visualisation in Power BI ](#visualisation-in-power-bi)
-  - [Analysis](#analysis)
   - [Final Report](#final-report)
 
 # Objectives
@@ -142,8 +141,7 @@ The cleaned and preapred dataset would be like this:
 ![clean](assets/images/Screenshot 2025-02-20 222612.png)
 
 ## Visualisation in Power BI 
-
-## Analysis 
+![dashboard in power BI](assets/images/Screenshot 2025-02-20 130633.png)
 
 ## Final Report 
 
