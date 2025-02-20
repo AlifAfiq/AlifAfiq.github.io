@@ -29,34 +29,34 @@
 # User Requirement 
 
 ## Use Cases 
-Hourly Revenue Analysis
+-Hourly Revenue Analysis
 
-Profit and Revenue Trend
+-Profit and Revenue Trend
 
-Seasonal Revenue Insight
+-Seasonal Revenue Insight
 
-Rider Demographic
+-Rider Demographic
 
-Final Report (recommendation)
+-Final Report (recommendation)
 
 ## Dashboard Criteria
-Using company colour and theme.
+-Using company colour and theme.
 
-User-friendly and easy to navigate 
+-User-friendly and easy to navigate 
 
 # Major Project Activities 
-Data gathering/searching: Searching for the relevant data.
+-Data gathering/searching: Searching for the relevant data.
 
-Data Cleaning: Remove any irrelevant information, altering the tables.
+-Data Cleaning: Remove any irrelevant information, altering the tables.
 
-Dashboard: Containing the relevant data.
+-Dashboard: Containing the relevant data.
 
-Final Report: Suggesting recommendations. 
+-Final Report: Suggesting recommendations. 
 
 # Deliverables
-Dashboard: Containing the relevant data.
+-Dashboard: Containing the relevant data.
 
-Final Report: Suggesting recommendations. 
+-Final Report: Suggesting recommendations. 
 
 
 # Working Overview
