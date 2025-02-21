@@ -63,6 +63,14 @@
 ## Data Preparation and cleaning 
 
 ### Dataset required
+ dataset of year 0
+ ![yr0](assets/images/Screenshot 2025-02-21 at 10.58.54 PM.png)
+
+ dataset of year 1
+ ![yr1](assets/images/Screenshot 2025-02-21 at 10.58.59 PM.png)
+
+ dataset of table cost
+ ![table cost](assets/images/Screenshot 2025-02-21 at 10.59.06 PM.png)
 
 ### Data cleaning in SQL 
 
